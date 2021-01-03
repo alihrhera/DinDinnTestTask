@@ -1,5 +1,5 @@
 # DinDinn Test Task
- Task for DinDinn Food App 
+ Task for DinDinn 
  
 Please replicate the below UI and animation flow, and send us your final assignment using GitHub.
 
