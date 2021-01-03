@@ -15,5 +15,5 @@ MvRx architecture. (https://github.com/airbnb/MvRx)
 
 
 
-![](https://e.top4top.io/p_1829046er1.gif(
+![](https://e.top4top.io/p_1829046er1.gif)
 
