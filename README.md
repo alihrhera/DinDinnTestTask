@@ -12,5 +12,8 @@ Use the following dependencies/libraries to implement:
 Rxjava
 Kotlin
 MvRx architecture. (https://github.com/airbnb/MvRx)
-![](https://5zznly.com/p/2021/01/NVyRz_Untitled_Project.gif)
+
+
+
+![](https://e.top4top.io/p_1829046er1.gif(
 
