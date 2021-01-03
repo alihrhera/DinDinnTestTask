@@ -12,5 +12,5 @@ Use the following dependencies/libraries to implement:
 Rxjava
 Kotlin
 MvRx architecture. (https://github.com/airbnb/MvRx)
-[](https://5zznly.com/NVyRz)
+![](https://5zznly.com/NVyRz)
 
