@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="slider_height">650dp</dimen>
+
+
+</resources>
