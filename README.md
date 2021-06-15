@@ -5,7 +5,7 @@ Please replicate the below UI and animation flow, and send us your final assignm
 
 https://dribbble.com/shots/6571883-Food-Delivery-App
 
-![](https://cdn.dribbble.com/users/3537484/screenshots/6571883/v2-avi.gif)
+![](https://s6.gifyu.com/images/v2-avi.gif)
 
 
 Requirements:
